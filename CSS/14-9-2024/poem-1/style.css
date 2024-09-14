@@ -1,0 +1,53 @@
+body {
+    background: linear-gradient(57deg, #cc55d7 30%, #f8f2f2)
+    
+}
+
+ .head {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  font-size: 50px;
+  text-shadow: 4px 4px 3px gray;
+}
+.head > span {
+   font-size: 70px;
+}
+.para > span {
+    color: red;
+    
+}
+.ribbons > span {
+    color: yellow;
+}
+.picture > span{
+    color: green;
+}
+.memories > span{
+    color: blue;
+}
+.sunshine > span{
+    color: greenyellow;
+}
+.leaves > span{
+    color: blueviolet;
+}
+.rainbows > span{
+    color: darkorange;
+}
+.letters > span {
+    color: brown;
+}
+.things > span {
+    color: rgb(72, 243, 33);
+}
+.dreams > span {
+    color: yellow;
+}
+.smiles > span {
+    color: blue;
+}
+.heart > span {
+    color: red;
+}
+.you > span {
+    color: rgb(7, 187, 252);
+}
